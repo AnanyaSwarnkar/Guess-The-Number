@@ -1,1 +1,2 @@
-# Guess-The-Number
+**Guess-The-Number
+Game made with HTML,CSS and JS**
